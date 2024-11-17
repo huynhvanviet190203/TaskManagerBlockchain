@@ -1,4 +1,4 @@
-﻿# TaskManagerBlockchain
+
 # TaskManagerBlockchain
 
 **TaskManagerBlockchain** là một ứng dụng web quản lý công việc được tích hợp với công nghệ blockchain, đảm bảo tính minh bạch và bảo mật trong quản lý dữ liệu.
